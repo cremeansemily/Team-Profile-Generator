@@ -19,3 +19,5 @@ THEN I exit the application, and the HTML is generated
 
 
 https://user-images.githubusercontent.com/78656766/116830511-c1284880-ab78-11eb-81ee-b2d4ffed017c.mp4
+
+![Capture](https://user-images.githubusercontent.com/78656766/116832242-03a25300-ab82-11eb-9b1d-04dbafa79dfb.JPG)
